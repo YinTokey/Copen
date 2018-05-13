@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Copen
 //
-//  Created by 陈银键 on 2018/5/12.
+//  Created by YinTokey on 2018/5/12.
 //  Copyright © 2018年 YinTokey. All rights reserved.
 //
 
